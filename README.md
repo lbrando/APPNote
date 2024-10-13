@@ -1,10 +1,10 @@
 # APPNote ✨
 
-**APPNote** è una semplice app per prendere appunti, sviluppata durante un tranquillo pomeriggio di domenica. In una sessione di pura creatività, abbiamo installato un'estensione di VSCode e voilà... è nata APPNote! 🎉
+**APPNote** è una semplice app per prendere appunti, sviluppata durante un tranquillo pomeriggio di domenica. In una sessione di pura creatività, abbiamo installato un'estensione di VSCode (abbiamo fatto solo ciò, tranquill*) e voilà... è nata APPNote! 🎉
 
 ## 🌼 Chi Siamo
 
-Siamo due poveri pazzi che si vogliono tanto bene, uniti dalla passione per la programmazione e il desiderio di creare qualcosa di utile. Insieme, abbiamo dato vita a questa piccola gemma, perfetta per annotare le tue idee e riflessioni in un ambiente semplice e intuitivo.
+Siamo due poveri pazzi che si vogliono tanto bene, uniti dalla passione per la programmazione e il desiderio di creare qualcosa di utile. Non avevamo idee quindi abbiamo chieso a CHATGPT, letsgonskij
 
 ## 💡 Caratteristiche
 
